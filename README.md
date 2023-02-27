@@ -7,7 +7,7 @@ Support for using the nugget style of communication
  * [Etymology](README.md#why-nugget)
 
 ## Nugget — Explanation
-The "nugget" is a particular, structured form of communication.
+The "nugget" is a particularly structured form of communication.
 
 The term nugget, in this context, means a single, non-compound, grammatically-correct sentence that effectively and efficiently communicates what you have determined to be most important for a specified audience.
 
