@@ -133,7 +133,7 @@ I deemed the more important message of the two to be "can" rather than "should".
 
 >"Error messages should also guide users about what they can do to recover."
 
-Reading this aloud, and hearing it read by a text-to-speech utility, the "error messages should also" seemed both long and didn't match the tone that I intended.  I realized that I wanted most to communicate a key characteristic that improves the value over typical error messages.  Here's an abbreviated sequence of rewrites.
+Reading this aloud, and hearing it read by a text-to-speech utility, the "error messages should also" seemed both long and didn't match the tone that I intended.  I realized what I wanted most was to communicate one key characteristic that improves the value over typical error messages.  Here's an abbreviated sequence of rewrites.
 
 1. "Error messages that also guide users about what they can do to recover are better than those that do not."
 1. "Better error messages are those that also guide users about what they can do to recover."
@@ -150,17 +150,17 @@ The "too wordy" concern lead to replacing "what users can do" with "how".
 
 >**"Good error messages suggest how to recover."**
 
-The "too specific" concern suggested that I had only articulated examples belonging to a collection of interest without actually naming the collection itself.  Thus, when I teased apart the original into its components, by adopting the phrase "how to recover" I'd lost the collective nature of what I'd been wanting to express.
+The "too specific" concern suggested that I had never actually named the collection of outcomes but only identified examples ("proceed forward", "recover", "get to safe state", "bail out"). As a result, when I teased apart the original into its components and then adopted the phrase "how to recover", I'd lost the collective nature of what I'd wanted to express.
 
-I couldn't quickly identify a rewrite to address this weakness.
+Sadly, I couldn't quickly identify a rewrite to address this weakness.
 
-On the other hand, this sentence seemed close enough that I would be OK stopping with the sentence as the nugget; but it felt like giving up too soon.
+Rationalizing, this sentence seemed close enough that I could be OK stopping at this sentence as the nugget; but it felt like giving up too soon.
 
 I still wanted to find some word(s) that would better encompass the collection of outcomes that were in the initial set ("proceed forward", "recover", "get to safe state", "bail out") that had been pared down to just "recover".
 
-More brainstorming, consulting dictionaries & thesauruses, taking walks, eating snacks, ignoring the problem, ... _time passes_ ... perhaps the concept of "remedy"?
+More brainstorming, consulting dictionaries & thesauruses, taking walks, eating snacks, ignoring the problem, ... _time passes_ ..., perhaps the concept of "remedy"?
 
-The following is the outcome that I finally felt satisfied the essential characteristics of a nugget: communicating what I thought was most valuable to the audience in a way that was efficient and would stand on its own.
+The following is the outcome that satisfied the essential characteristics of a nugget: communicating what I thought was most valuable to the specified audience in a way that was efficient and would stand on its own.
 
 >⭐️ **_Good error messages suggest remedies._**
 
