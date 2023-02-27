@@ -100,7 +100,7 @@ As I thought about the intended audience, I decided that they already knew what 
 
 I also decided that my emphasis was to be about **improving** error messages in general and needn't be focused on end-users in particular.
 
-The term "users" was also preferable to "end-users" as it is more encompassing and wouldn't risk the need to explain a potentially new term ("end-user").
+The term "users" was also preferable to "end-users" as it is more encompassing and wouldn't necessitate explaining a potentially new term ("end-user").
 
 Here are the messages after prioritizing and pruning based on what I thought was most valuable to the intended audience:
 
@@ -116,7 +116,7 @@ My identified emphasis on error message improvement suggested possible rewrites 
 
 • Another was to change the phrase "error messages should" to "error messages should be improved to".
 
-After much shuffling around of words, over and over again and not reaching a resolution, I decided to again try narrowing down the messages.  I put the top two prioritized ideas together as a new starting point.
+After much shuffling around of words, over and over again without reaching a resolution, I decided to retry narrowing down the message.  I put the top two prioritized ideas together as a new starting point.
 
 >"Error messages should also guide users about what they can or should do next to recover."
 
