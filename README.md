@@ -4,6 +4,7 @@ Support for using the nugget style of communication
  * [Characteristics](README.md#nugget--characteristics)
  * [Generation](README.md#generating-a-nugget)
  * [Nugget Development Example](README.md#nugget-development-example)
+ * [Etymology](README.md#why-nugget)
 
 ## Nugget — Explanation
 The "nugget" is a particular, structured form of communication.
@@ -179,5 +180,8 @@ Using the characteristics as checklists to evaluate this *nugget:*
 ✔ Is not of marginal significance to audience  
 ✔ Does not use a direct quotation  
 
+___
+## Why "Nugget"
+This use of the word "nugget" derives from its general usage—identifying something small and valuable—and the phrase "nugget of wisdom" meaning a concise statement of great value or significance.
 ___
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Nuggets - Explanation, Characteristics, Generation</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Dr. Jody Paul</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
