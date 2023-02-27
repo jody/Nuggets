@@ -1,4 +1,4 @@
-# Nuggets — Explanation, Characteristic], Generation
+# Nuggets — Explanation, Characteristics, Generation
 Support for using the nugget style of communication
  * [Explanation](#nugget--explanation)
  * [Characteristics](#nugget--characteristics)
