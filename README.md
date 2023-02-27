@@ -1,9 +1,9 @@
 # Nuggets — Explanation, Characteristics, Generation
 Support for using the nugget style of communication
- * [Explanation](#nugget--explanation)
- * [Characteristics](#nugget--characteristics)
- * [Generation](#generating-a-nugget)
- * [Nugget Development Example](#nugget-development-example)
+ * [Explanation](README.md/#nugget--explanation)
+ * [Characteristics](README.md/#nugget--characteristics)
+ * [Generation](README.md/#generating-a-nugget)
+ * [Nugget Development Example](README.md/#nugget-development-example)
 
 ## Nugget — Explanation
 The "nugget" is a particular, structured form of communication.
