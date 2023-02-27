@@ -135,29 +135,31 @@ I deemed the more important message of the two to be "can" rather than "should".
 Reading this aloud, and hearing it read by a text-to-speech utility, the "error messages should also" seemed both long and didn't match the tone that I intended.  I realized that I wanted most to communicate a key characteristic that improves the value over typical error messages.  Here's an abbreviated sequence of rewrites.
 
 1. "Error messages that also guide users about what they can do to recover are better than those that do not."
-2. "Better error messages are those that also guide users about what they can do to recover."
-3. "Better error messages are those that also guide users about what they can do to recover."
-4. "Better error messages also guide users about what they can do to recover."
-5. "Good error messages guide users about what they can do to recover."
-6. "Good error messages suggest what users can do to recover."
+1. "Better error messages are those that also guide users about what they can do to recover."
+1. "Better error messages ~~are those that~~ also guide users about what they can do to recover."
+1. "Better error messages ~~also~~ guide users about what they can do to recover."
+1. "<ins>Good</ins> error messages guide users about what they can do to recover."
+1. "Good error messages _suggest what users_ can do to recover."
 
 At this point, I was OK with having created a meaningful and useful message, appropriate to the audience.
 
 However, "what users can do to recover" still didn't feel quite right.  It seemed both too wordy and too specific.
 
-That lead to replacing "what users can do" with "how".
+The "too wordy" concern lead to replacing "what users can do" with "how".
 
 >**"Good error messages suggest how to recover."**
 
-The "too specific" concern suggested that I had articulated several examples belonging to a collection of interest without actually naming the collection itself.  Thus, when I teased apart the original into its components, I'd lost the collective nature of what I'd been wanting to express.
+The "too specific" concern suggested that I had only articulated examples belonging to a collection of interest without actually naming the collection itself.  Thus, when I teased apart the original into its components, by adopting the phrase "how to recover" I'd lost the collective nature of what I'd been wanting to express.
 
-This seemed so close that I would be OK stopping with that sentence as the nugget.
+I couldn't quickly identify a rewrite to address this weakness.
 
-I still wanted to find some word(s) that would better encompass the collection of things that were in the initial set (proceed forward, recover, get to safe state, bail out) that I had pared down to just "recover".
+On the other hand, this sentence seemed close enough that I would be OK stopping with the sentence as the nugget; but it felt like giving up too soon.
 
-More brainstorming, consulting dictionaries & thesauruses, taking walks, eating snacks, ignoring the problem, ... <time passes> ... perhaps "remedy"?
+I still wanted to find some word(s) that would better encompass the collection of outcomes that were in the initial set ("proceed forward", "recover", "get to safe state", "bail out") that had been pared down to just "recover".
 
-The following is the outcome that I felt satisfied the essential characteristics of a nugget, communicating what I thought was most valuable to the audience in a way that was efficient and would stand on its own.
+More brainstorming, consulting dictionaries & thesauruses, taking walks, eating snacks, ignoring the problem, ... _time passes_ ... perhaps the concept of "remedy"?
+
+The following is the outcome that I finally felt satisfied the essential characteristics of a nugget: communicating what I thought was most valuable to the audience in a way that was efficient and would stand on its own.
 
 >⭐️ **_Good error messages suggest remedies._**
 
