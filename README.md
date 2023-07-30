@@ -187,9 +187,10 @@ Using the characteristics as checklists to evaluate this *nugget:*
 
 ___
 ## Why "Nugget"
-This use of the word "nugget" derives from its general usage—identifying something small and valuable—and the phrase "nugget of wisdom" meaning a concise statement of great value or significance.
+This use of the word "nugget" derives from its general usage as identifying something small and valuable and the phrase "nugget of wisdom" meaning a concise statement of great value or significance.
 
 ___
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Nuggets - Explanation, Characteristics, Generation</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">Dr. Jody Paul</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
-Document Source Repository: [https://github.com/jody/Nuggets](https://github.com/jody/Nuggets)
+Document Source Repository: [https://github.com/jody/Nuggets](https://github.com/jody/Nuggets)  
+Document Web Hosting: [https://jody.github.io/Nuggets/](https://jody.github.io/Nuggets/)
