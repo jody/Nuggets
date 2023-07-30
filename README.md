@@ -50,14 +50,15 @@ Here is a step-by-step process for generating a nugget.
 *Multiple iterations are usually required.*
 
 ### Observations
-Crafting a nugget starts with something to be communicated, "the message", and a defined recipient, "the audience".
+- Crafting a nugget _starts with_ something to be communicated, _"the message"_, _and_ a defined recipient, _"the audience"_.
 
-———
+- The process of developing a nugget usually exposes attributes of the intended message that are inconsistent with the nugget form.
 
-The process of developing a nugget usually exposes attributes of the intended message that are inconsistent with the nugget form.
-
-The most common observation is that the original message contained multiple ideas instead of just one.  
-Also common are: mismatch with audience pre-knowledge, excessive length, and the failure to stand on-its-own.
+- Common observations made during nugget development:
+  - original message contained multiple ideas instead of just one
+  - nugget candiate is a mismatch with audience pre-knowledge
+  - nugget candidate has excessive length
+  - the nugget candidate fails to stand on-its-own
 
 ___
 ## Nugget Development Example
@@ -72,15 +73,19 @@ Using that text as a starting point, I started deleting words that weren't essen
 
 >"~~My audience are upper-division students who have satisfied lower-division computer science degree requirements and are interested in developing more-usable software.  I want to convey the basic idea that~~ messages presented when software detects an error need to do more than just announce that an error has occurred. They should be ~~even~~ more useful to the recipient of the message.  ~~In particular, and~~ especially when dealing with end-users, the messages should guide the recipient users about what they can or should do next, to keep proceeding forward, to recover, to return to a safe state, or to bail out with the least amount of collateral damage."
 
+Cleaned up...
+
+>"Messages presented when software detects an error need to do more than just announce that an error has occurred. They should be more useful to the recipient of the message. Especially when dealing with end-users, the messages should guide the recipient users about what they can or should do next, to keep proceeding forward, to recover, to return to a safe state, or to bail out with the least amount of collateral damage."
+
 I then looked to reduce the number of words by finding shorter phrases.
 
-"messages presented when software detects an error" became "error messages".
+"messages presented when software detects an error" and "the messages" became "error messages".
 
 "the recipient of the message" and "recipient users" became "the user".
 
->"*Error* messages need to do more than announce that an error has occurred. They should be more useful to users.  Especially when dealing with end-users, error messages should guide the users about what they can or should do next, to keep proceeding forward, to recover, to return to a safe state, or to bail out with the least amount of collateral damage."
+>"*Error messages* need to do more than announce that an error has occurred. They should be more useful to users.  Especially when dealing with end-users, *error messages* should guide *the users* about what they can or should do next, to keep proceeding forward, to recover, to return to a safe state, or to bail out with the least amount of collateral damage."
 
-There are too many messages contained in this passage; that is, it does not express a single idea.
+There are too many ideas contained in this passage to send a clear message to the reader; that is, it does not express a single idea.
 
 I needed to identify some of the constituent messages and decide what was most important.
 
@@ -98,11 +103,11 @@ Here are some of the teased-out messages:
 
 As I thought about the intended audience, I decided that they already knew what "error messages" were, so I didn't need to include that they "announce that an error has occurred."  The statement that "error messages should be useful to users" also didn't seem to add much value to what the audience was likely to already believe.
 
-I also decided that my emphasis was to be about **improving** error messages in general and needn't be focused on end-users in particular.
+I also decided that my desired emphasis was to be about **improving** error messages in general, not only those directed at end-users in particular.
 
 The term "users" was also preferable to "end-users" as it is more encompassing and wouldn't necessitate explaining a potentially new term ("end-user").
 
-Here are the messages after prioritizing and pruning based on what I thought was most valuable to the intended audience:
+Here are the remaining messages after prioritizing and pruning based on what I thought was most valuable to the intended audience:
 
 - Error messages should guide users about what they can or should do next.
 - Error messages should guide users about what they can or should do to recover.
@@ -110,7 +115,7 @@ Here are the messages after prioritizing and pruning based on what I thought was
 - Error messages should guide users about what they can or should do to return to a safe state.
 - Error messages should guide users about what they can or should do to return to bail out with the least amount of collateral damage.
 
-My identified emphasis on error message improvement suggested possible rewrites to the opening phrase.
+My identified emphasis on error message *improvement* suggested possible rewrites to the opening phrase.
 
 • One was to change the phrase "error messages should" to "error messages should also".
 
@@ -124,16 +129,16 @@ The word "next" now seemed superfluous.
 
 >"Error messages should also guide users about what they can or should do to recover."
 
-The message itself was still obviously compound, using the disjunction "or".
+The newly crafted message itself was still obviously compound, using the disjunction "or".
 
 >"Error messages should also guide users about what they can do to recover."  
 >"Error messages should also guide users about what they should do to recover."
 
-I deemed the more important message of the two to be "can" rather than "should".
+I deemed the more important message of the two to be "can do" rather than "should do".
 
 >"Error messages should also guide users about what they can do to recover."
 
-Reading this aloud, and hearing it read by a text-to-speech utility, the "error messages should also" seemed both long and didn't match the tone that I intended.  I realized what I wanted most was to communicate one key characteristic that improves the value over typical error messages.  Here's an abbreviated sequence of rewrites.
+Reading this aloud, and hearing it read by a text-to-speech utility, the "error messages should also" seemed both too long and didn't match the tone that I intended.  I realized what I wanted most was to communicate one key characteristic that improves value over typical error messages.  Here's an abbreviated sequence of rewrites.
 
 1. "Error messages that also guide users about what they can do to recover are better than those that do not."
 1. "Better error messages are those that also guide users about what they can do to recover."
@@ -165,13 +170,13 @@ The following is the outcome that satisfied the essential characteristics of a n
 >⭐️ **_Good error messages suggest remedies._**
 
 Using the characteristics as checklists to evaluate this *nugget:*
-
+  
 ✔ Single concept  
 ✔ Self-contained (stands on its own)  
 ✔ Succinct (brief; single sentence; simple sentence structure)  
 ✔ High value to intended audience  
 ✔ Grammatically correct  
-
+  
 ✔ Not divisible into multiple separate concepts  
 ✔ Does not use compound subject, predicate, or sentence structure  
 ✔ Does not require additional description or explanation  
